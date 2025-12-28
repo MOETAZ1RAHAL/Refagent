@@ -1,0 +1,27 @@
+# Python virtual envs
+venv/
+.venv/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment / secrets
+.env
+*.env
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Byte-compiled / distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log

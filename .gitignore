@@ -1,0 +1,12 @@
+.DS_Store
+results/data/test_pass_rate_over_itteration.numbers
+results/data/synchronized_intervals_BD_AR.numbers
+results/data/QMood_Analysis.numbers
+results/data/performance metrics.numbers
+results/data/manual analysis.numbers
+results/data/F1_score_recall.numbers
+results/data/compilation_pass_rate_over_itteration 2.numbers
+results/data/Code_Smells 2.numbers
+data/paths/camel/camel_files.json
+data/paths/tsfile/tsfile_files.json
+.env
